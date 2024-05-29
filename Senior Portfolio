@@ -21,7 +21,6 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <!-- Icon Bar (Sidebar - hidden on small screens) -->
 <nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
   <!-- Avatar image in top left corner -->
-  <img src="___" style="width:100%">
   <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
     <i class="fa fa-home w3-xxlarge"></i>
     <p>HOME</p>
@@ -56,24 +55,72 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
     <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> Zachary McIntyre</h1>
     <p>Student at Sylvania Northview High School.</p>
-    <img src="https://drive.google.com/file/d/16XozOU1RUIurf1IUMrKbnEVpnubw_-DC/view?usp=drive_link" alt="boy" class="w3-image" width="___" height="___">
+    <iframe src="https://drive.google.com/file/d/16XozOU1RUIurf1IUMrKbnEVpnubw_-DC/preview" width="640" height="480" allow="autoplay"></iframe>
   </header>
 
   <!-- About Section -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
-    <h2 class="w3-text-light-grey">My Name</h2>
+    <h2 class="w3-text-light-grey">My Bio</h2>
     <hr style="width:200px" class="w3-opacity">
-    <p>___</p>
+    <p>My name is Zachary McIntyre and I have been learning Computer
+    Science since I was a junior in high school and I love getting my
+    hands on computers to where I an program stuff. I have been 
+    interested in programming since junior high and I have always wanted
+    to code my own games as well. I've been in 2D Game Design, Intro to Computer
+    Programming, HTML & CSS, Cybersecurity, and System and Analysis. After graduating 
+    I plan to go to UT and continue my path there to be a better programer in Computer Science.
+    I hope to be able to make my own games one day so other people can play them and maybe be
+    encourage them to code their own games in their future.
+    </p>
     
     <!-- Testimonials -->
-    <h3 class="w3-padding-24 w3-text-light-grey">My Reputation</h3>  
-    <img src="/w3images/bandmember.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
-    <p><span class="w3-large w3-margin-right">Chris Fox.</span> CEO at Mighty Schools.</p>
-    <p>John Doe saved us from a web disaster.</p><br>
+    <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
+    <h2 class="w3-text-light-grey">My Skills, Certifications, & Awards</h2>
+    <hr style="width:200px" class="w3-opacity">
+    <p>When it comes to my skills, I am good at problem solving and working with my peers. 
+    I have great leadership and will always get stuff done. I am hard working and I'm good
+    at managing my time. I always have a positive attitude when working and I am also a very
+    patient person. When it comes to recommanding someone I recommand Jonah Miligan and D'Angelo
+    Watson. They are amazing and smart people when it comes to programming. They're hard working
+    and are a team player. I'lve known them both for a couple of years and we have worked together
+    in computer science for 2 years. A person that I can reference is my computer science teacher Mrs.
+    Ramsey. Down below will be Jonah and D'Angelos LinkedIn profiles as well as Mrs. Ramseys work and
+    personal phone number.</p>
     
-    <img src="/w3images/avatar_g2.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
-    <p><span class="w3-large w3-margin-right">Rebecca Flex.</span> CEO at Company.</p>
-    <p>No one is better than John Doe.</p>
+    <a href="https://www.linkedin.com/in/jonah-miligan-7150a5274/">Jonah Miligan's Profile</a>
+    <br>
+    <a href="https://www.linkedin.com/in/d%E2%80%99angelo-watson-770571294/">D'Angelo Watson's Profile</a>
+    
+    <p><i class="fa fa-phone fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Work Phone: (419) 824-8570 ext 5224</p>
+    <p><i class="fa fa-phone fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Personal Phone: (419) 318-9037</p>
+    
+    <div class="w3-row-padding" style="margin:0 -16px">
+      <div class="w3-half">
+        <iframe src="https://drive.google.com/file/d/1-GdAw2qnbXRCW0Kc20lpRFj99NXmomx1/preview" width="320" height="240" allow="autoplay"></iframe>
+        <br>
+        <iframe src="https://drive.google.com/file/d/1-M2-cmretmPYs6Qm3XYlsEp0w26ODUQ2/preview" width="320" height="240" allow="autoplay"></iframe>
+        <br>
+        <iframe src="https://drive.google.com/file/d/1-M661thEiPu1U8GeLqP7H6Ltm5QFIqer/preview" width="320" height="240" allow="autoplay"></iframe>
+        <br>
+        <iframe src="https://drive.google.com/file/d/1-MfuKeVzkAAn6ce07MwGfA5z5DFRuRmI/preview" width="320" height="240" allow="autoplay"></iframe>
+        <br>
+        <iframe src="https://drive.google.com/file/d/1-VLbiOqwaUbSK2FLHxnKz0SZrEfLuHUE/preview" width="320" height="240" allow="autoplay"></iframe>
+        <br>
+        <iframe src="https://drive.google.com/file/d/1-bRALOGrMCImbggH8rBmP_gaREn_dMFR/preview" width="320" height="240" allow="autoplay"></iframe>
+      </div>
+      
+      <div class="w3-half">
+        <iframe src="https://drive.google.com/file/d/1-d_9BQUWhcI_90qYJlEw8zNHo8-kewIL/preview" width="320" height="240" allow="autoplay"></iframe>
+        <br>
+        <iframe src="https://drive.google.com/file/d/1-iCFf9Vm2m65LcmO9YPtLU2wyX_XPsmG/preview" width="320" height="240" allow="autoplay"></iframe>
+        <br>
+        <iframe src="https://drive.google.com/file/d/1-l2XKP0PPBPhRxCYOzBZ314Eng5xV6k5/preview" width="320" height="240" allow="autoplay"></iframe>
+        <br>
+        <iframe src="https://drive.google.com/file/d/1-s7LyEdbQdYEaoSg2NPw68v7OYZsuAlh/preview" width="320" height="240" allow="autoplay"></iframe>
+        <br>
+        <iframe src="https://drive.google.com/file/d/1-yW562zkJYQfnS4PDmBvoRn2uMgCUk55/preview" width="320" height="240" allow="autoplay"></iframe>
+      </div>
+    
   <!-- End About Section -->
   </div>
   
@@ -85,27 +132,37 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <!-- Grid for photos -->
     <div class="w3-row-padding" style="margin:0 -16px">
       <div class="w3-half">
-        <a href="url">link text</a>
+        <a href="https://celebrated-cactus-bfef18.netlify.app/">Weather In Tokyo</a>
+        <p>This project was a short mini project where we copied a weather picture from Tokyo.</p>
         <br>
-        <a href="url">link text</a>
+        <a href="https://docs.google.com/presentation/d/1m7fO6WA1gGt7N05P9My_l43Dcbgha1agRZ56YvGMWng/edit#slide=id.p">Raspberry Pi-Hole</a>
+        <p>This was a raspberry pi project that I created and learned how to block ads on a computer.</p>
         <br>
-        <a href="url">link text</a>
+        <a href="https://melodic-axolotl-918161.netlify.app/">Topic of our Choosing</a>
+        <p>With this project I got to choose what I wanted to do as long as I followed the requirements.</p>
         <br>
-        <a href="url">link text</a>
+        <a href="https://famous-gumption-ccfb97.netlify.app/">Different types of Cooking</a>
+        <p>This project we had to pick a topic to do and I went with different types of cooking where it explains how each cooking method works.</p>
         <br>
-        <a href="url">link text</a>
+        <a href="https://codehs.com/sandbox/id/bootstrap-project-Px3Zal?collaborate=-NKww0hc_hn_NUucEUZC">Bootstrap Project</a>
+        <p>In this project we learned how to use bootstrap and with that I made a project talking about Microsoft and Xbox.</p>
       </div>
 
       <div class="w3-half">
-        <a href="url">link text</a>
+        <a href="https://codehs.com/sandbox/id/array-project-lwDpU0?collaborate=-NyfcuCcy07qEkGY9AGG">Array Project</a>
+        <p>With this project we learned arrays and with that we made a card game using arrays.</p>
         <br>
-        <a href="url">link text</a>
+        <a href="https://codehs.com/sandbox/id/design-project-OCeDDL?collaborate=-NPHw6QPxhGBa4o6D6Pr">Design Project</a>
+        <p>My design project I learned how to tell when a website looks good and when a website looks bad by using certain clues.</p>
         <br>
-        <a href="url">link text</a>
+        <a href="https://codehs.com/sandbox/id/collecting-user-clicks-dWO8py?collaborate=-Nyfh48grXCsHX9yMQ6l">Collecting User Clicks</a>
+        <p>Here I made a survey that would collect peoples answers on their mood and it comes back with what Hazbin Hotel character they are based on their mood.</p>
         <br>
-        <a href="url">link text</a>
+        <a href="https://docs.google.com/presentation/d/1w3WuzJllTMDpMsY-b-FiO7SVk9z61eFkxYC0kd4RXL4/edit#slide=id.g29138ac7582_0_54">PSA</a>
+        <p>My Public Service Announcment (PSA) is going over dos and don'ts of internet safety.</p>
         <br>
-        <a href="url">link text</a>
+        <a href="https://codehs.com/student/3533106/section/441361/assignment/110133119">Trouble Shooting</a>
+        <p>This project is where we had to create a trouble shooting ticket for when a issue happened with a printer at a company.</p>
 
       </div>
     <!-- End photo grid -->
@@ -119,6 +176,9 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <hr style="width:200px" class="w3-opacity">
 
     <div class="w3-section">
+        <div class="w3-row-padding" style="margin:0 -16px">
+      <div class="w3-half">
+        <a href="https://www.linkedin.com/in/zachary-mcintyre-790570294/">Resume</a>
       <p><i class="fa fa-map-marker fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Sylvania, Ohio</p>
       <p><i class="fa fa-phone fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Phone: (419) 261-5678</p>
       <p><i class="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"> </i> Email: zmm82605@outlook.com</p>
